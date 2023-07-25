@@ -1,4 +1,4 @@
-package examples.users;
+package microservices.users;
 
 import com.intuit.karate.junit5.Karate;
 
